@@ -1,0 +1,11 @@
+facenet-pytorch==2.6.0
+scikit-learn==1.5.0
+opencv-python==4.10.0.84
+torchvision==0.9.1
+torch==1.8.1
+Pillow==10.4.0
+openvino==2022.3
+numpy~=1.23.4
+requests~=2.32.3
+gTTS~=2.5.3
+pygame~=2.6.0
